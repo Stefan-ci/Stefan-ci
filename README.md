@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Stefan-ci/Stefan-ci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Stefan-ci**, a self made Python/Django developer from Ivory Coast. I love everything about Python and especially about Django and web development. I'm also ready to contribute to any kind of projects that require python or Django. Feel free to contact me if so !
 
-Here are some ideas to get you started:
+## Pinned Repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Stefan-ci&repo=Python-tricks&show_icons=true)](https://github.com/Stefan-ci/Python-tricks)
+
+## My Stats
+
+[![Stefan-ci's github stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=Stefan-ci&count_private=true&show_icons=true)](https://github.com/Stefan-ci)
+
+[![Stefan-ci's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefan-ci&count_private=true&show_icons=true)](https://github.com/Stefan-ci)
+
+## Links
+
+- [![Sololearn](https://img.shields.io/badge/-SoloLearn-red?logo=sololearn&logoWidth=20&logoColor=white&style=flat)](https://www.sololearn.com/Profile/15560343/?ref=app)
+
+- [Contact me now](mailto:claverdiby9@gmail.com)
