@@ -6,6 +6,10 @@ I'm **Stefan-ci**, a self made Python/Django developer from Ivory Coast. I love 
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Stefan-ci&repo=Python-tricks&show_icons=true)](https://github.com/Stefan-ci/Python-tricks)
 
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Stefan-ci&repo=ZanGStore---E-Commerce-website&show_icons=true)](https://github.com/Stefan-ci/ZanGStore---E-Commerce-website)
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Stefan-ci&repo=Stefan-ci&show_icons=true)](https://github.com/Stefan-ci/Stefan-ci)
+
 ## My Stats
 
 [![Stefan-ci's github stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&username=Stefan-ci&count_private=true&show_icons=true)](https://github.com/Stefan-ci)
